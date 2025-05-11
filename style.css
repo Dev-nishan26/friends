@@ -1,0 +1,106 @@
+body{
+text-align:center;
+color:rgb(247, 237, 237);
+
+background-attachment:fixed;
+}
+
+body {background-image: "";}
+h1{background-color:rgb(238, 232, 232)}
+h1{color:black;}
+#title{
+border-style:solid;
+text-shadow: 6px 4px 3px gray;
+width:auto;
+
+}
+
+pk{border-sytle:solid;}
+#l{
+border-style:ridge;
+border-width:10px;
+Border-color:slategray;
+margin-left:500px;
+margin-right:500px;
+margin-bottom:0px;
+
+}
+#s{
+border-style:ridge;
+Border-width:10px;
+Border-color:slategray;
+margin-bottom:0px;
+}
+#t{
+border-style:ridge;
+Border-width:10px;
+Border-color:slategray;
+margin-bottom:0px;
+}
+#le{
+border-style:ridge;
+border-color:slategray;
+Border-width:10px;
+width:580px;
+margin:auto;
+background-image:url("/hello world/936709.jpg");
+background-attachment:fixed;}
+#se{
+border-style:ridge;
+Border-width:10px;
+Border-color:slategray;
+width:580px;
+margin:auto;
+background-image:url("/coding/hello world/936709.jpg");
+background-attachment:fixed;
+}
+#te{
+border-style:ridge;
+Border-width:10px;
+Border-color:slategray;
+width:580px;
+margin:auto;
+background-image:url("/hello world/936709.jpg");
+background-attachment:fixed;
+}
+#lp{
+border-style:ridege;
+border-width:10px;
+border-redius:50px;
+align-content:centre;
+}
+.lt{
+margin-left:500px;
+margin-right:500px;
+background-image:url("/hello world/936709.jpg");
+align-content:;
+/*text-shadow:-2px -3px 0px gray;
+*/
+a{
+text-decoration: none;}
+}
+a:link {
+color:royalblue;
+text-decoration:none;
+}
+a:visited {
+color:gray}
+a:hover{
+color:green;}
+a:active{
+color:yellow;
+}
+
+
+
+#ins:link{
+
+#ins:visited{
+color:gray;}
+#ins:active{
+color:yellow;}
+/*a{
+color:royalblue;}
+*/
+
+}
